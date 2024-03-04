@@ -1,0 +1,119 @@
+@media (max-width: 1440px) {
+  .header__link-logo {
+    margin-right: 0;
+    width: 150px;
+  }
+
+.header {
+  gap:0;
+  padding: 0 50px;
+  padding-top: 2px;
+  height: auto;
+}
+
+  .nav__list {
+    gap: 47px;
+  }
+
+  .title-section {
+    margin-bottom: 37px;
+  }
+
+.title {
+  padding-top: 155px;
+  min-height: 666px;
+}
+
+.title__heading {
+  margin-bottom: 21px;
+  font-size: 60px;
+
+}
+
+.title__txt {
+
+  margin-bottom: 57px;
+font-size: 20px;
+}
+
+.main {
+  padding: 42px 50px 74px 50px;
+}
+
+.about {
+  margin-bottom: 78px;
+}
+
+.about__txt {
+  margin-bottom: 57px;
+}
+
+
+.about__big-block {
+  width: 100%;
+}
+
+.about__container {
+flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.about__big-block {
+  max-width: 100%;
+  min-height: 643px;
+}
+
+.about__bocks {
+  min-width: 100%;
+}
+
+
+.about__little-block {
+  background-position: left 77px top 61px;
+  padding: 63px 52px 65px 315px;
+
+}
+
+.stages {
+  margin-bottom: 80px;
+}
+
+.stages__txt-block {
+  padding-right: 10px;
+}
+
+.stages__img::after {
+  left: 27px;
+
+}
+
+.stages__text {
+  margin-bottom: 25px;
+}
+
+.qwestions {
+  --offsets: 0;
+}
+
+.footer__content {
+  padding: 50px 50px;
+}
+
+.footer__text {
+  display: none;
+}
+
+.fieldset {
+  max-width: 541px;
+}
+
+.footer__links-block {
+margin-right: 25px;}
+
+.fieldset__btn {
+  padding: 18px 37px;}
+
+}
